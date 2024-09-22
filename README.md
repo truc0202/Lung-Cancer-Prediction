@@ -16,6 +16,8 @@ Bối cảnh vấn đề:
 + Ung thư phổi là một mối đe dọa sức khỏe toàn cầu, chiếm vị trí thứ hai trong số các loại ung thư phổ biến ở Hoa Kỳ và là loại ung thư gây tử vong hàng đầu trên toàn thế giới. 
 + Điều đáng lo ngại là ung thư phổi thường được phát hiện muộn, khi bệnh đã tiến triển và khó điều trị. 
 + Nhiều bệnh nhân không có triệu chứng trong những giai đoạn đầu, khiến việc chẩn đoán sớm trở nên khó khăn. 
+
+## :star2:  Project Goals
 Mục tiêu của dự án:
 + Mặc dù không có nguyên nhân duy nhất gây ra ung thư phổi, nhưng bằng cách phân tích các bộ dữ liệu liên quan, chúng ta có thể xác định một số yếu tố nguy cơ tiềm ẩn, từ đó hỗ trợ việc dự đoán, sàng lọc và điều trị bệnh hiệu quả hơn.
 + Dự án này hướng đến việc ứng dụng kỹ thuật máy học để phân tích dữ liệu liên quan đến bệnh nhân ung thư phổi, nhằm mục tiêu:
@@ -23,23 +25,8 @@ Mục tiêu của dự án:
 	▪ Xây dựng mô hình phân loại: Phát triển một mô hình máy học có khả năng dự đoán bệnh nhân ở giai đoạn ung thư nào dựa trên các yếu tố v.v.
 
 	▪ Hỗ trợ và cải thiện điều trị: Phân tích dữ liệu để xác định các yếu tố ảnh hưởng  và sử dụng mô hình dự đoán để phát hiện sớm mức độ những bệnh nhân để hỗ trợ việc sàng lọc và hỗ trợ điều trị hiệu quả hơn.
-
-**Job hunting** is a tedious and stressful process. Stacked paragraphs of description and long list of requirement from the job listings are only adding fuel to the flame. This project aims to help me and other aspiring **data science** professionals get a clear insight on the role they're pursuing, and to provide a better understanding on the education level of their competitors.
-## :star2:  Project Goals
-Our goal is to to analyze data-science job postings on Linkedin using **Natural Language Processing** techniques and predict the candidate's **education level**.
-
-Education level is classified into two categories:
-- Undergraduate (candidate whose highest education level is a Bachelor degree, and those who have 'other' degrees)
-- Graduate (candidate whose highest education level is Master/PhD)
 ## :memo:   Initial Questions
-▪ What does overall candidate's education distribution look like?
-
-▪ Is role dependent on the education level of candidates?
-
-▪ Is job level dependent on the education level of candidates?
-
-▪ Is job description different for graduate vs. undergraduate group?
-
+![image](https://github.com/user-attachments/assets/a8d3c536-86b6-4064-b4bc-679d53a6e958)
 
 
 ## :open_file_folder:   Data Dictionary
