@@ -88,8 +88,10 @@ Dựa vào đặc điểm của những cột dữ liệu mà phân chia các c�
 
 
 #### :three: Phân tích
+Sau khi thống kê và chọn ra những cột dữ liệu có liên quan đến vấn đề của bài toán -> phân tích những yếu tố này với những mức độ ung thư của bệnh nhân:
 ![image](https://github.com/user-attachments/assets/5a8ea850-4d9f-49a5-a51a-b9c5504622f2)
-
+Nhìn chung, các yếu tố nguy cơ như ô nhiễm không khí, nguy hiểm nghề nghiệp, bệnh phổi mãn tính, và thói quen hút thuốc có mối liên hệ mạnh với mức độ nghiêm trọng cao của bệnh ung thư.
+Hầu hết những bệnh nhân thuộc mức độ cao những yếu tô trên thường có nguy cơ nghiêm trọng hơn trong bệnh ung thư phổi. Từ những điều này ta cần phải có những khuyến nghị cho mọi người để phòng và chữa bệnh.
 #### :four: Áp dụng mô hình máy học
 - **Bước 1:** Chọn các tính năng quan trọng
 - **Bước 2:** Trực quan hóa các điểm trên các biến
@@ -105,5 +107,15 @@ Dựa vào đặc điểm của những cột dữ liệu mà phân chia các c�
 - Logistic Regression có hiệu suất thấp hơn đáng kể và không được khuyến nghị cho dữ liệu này, trừ khi cần một mô hình đơn giản và dễ giải thích.
 - Decision Tree có hiệu suất cao và có thể được sử dụng khi cần giải thích dễ dàng về các quyết định của mô hình.
 - KNN cũng là một mô hình mạnh, nhưng có thể không hiệu quả khi áp dụng trên các tập dữ liệu lớn hoặc khi tính toán khoảng cách giữa các điểm dữ liệu trở nên tốn kém.
+  
 **Đề xuất**
-- 
+**Đời sống:**
+- Bệnh viện cần không ngừng tuyên truyền những tác nhân ảnh hưởng tới phổi như thuốc lá, rượu bia, bụi bẩn, ...
+- Cung cấp hỗ trợ cai thuốc và các chương trình can thiệp giảm rượu bia.
+- Khuyến khích các biện phảm giảm ô nhiễm không khí tại địa phương, như sử dụng năng lượng sạch và trồng cây.
+- Nên có những chính sách ưu đãi cho khách hàng để nâng cao việc theo dõi sức khỏe định kỳ.
+- Giáo dục về triệu chứng.
+**Áp dụng mô hình:**
+- Nên ưu tiên sử dụng Random Forest và MLP Classifier cho dự đoán ung thư phổi.
+- Decision Tree có thể là lựa chọn tốt trong các tình huống cần giải thích rõ ràng.
+- Logistic Regression và KNN có thể được xem xét trong các trường hợp cụ thể, nhưng cần hiểu rõ về hạn chế của chúng.
