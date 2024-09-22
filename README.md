@@ -110,12 +110,14 @@ Hầu hết những bệnh nhân thuộc mức độ cao những yếu tô trên
 - KNN cũng là một mô hình mạnh, nhưng có thể không hiệu quả khi áp dụng trên các tập dữ liệu lớn hoặc khi tính toán khoảng cách giữa các điểm dữ liệu trở nên tốn kém.
   
 **Đề xuất**
+
 **Đời sống:**
 - Bệnh viện cần không ngừng tuyên truyền những tác nhân ảnh hưởng tới phổi như thuốc lá, rượu bia, bụi bẩn, ...
 - Cung cấp hỗ trợ cai thuốc và các chương trình can thiệp giảm rượu bia.
 - Khuyến khích các biện phảm giảm ô nhiễm không khí tại địa phương, như sử dụng năng lượng sạch và trồng cây.
 - Nên có những chính sách ưu đãi cho khách hàng để nâng cao việc theo dõi sức khỏe định kỳ.
 - Giáo dục về triệu chứng.
+
 **Áp dụng mô hình:**
 - Nên ưu tiên sử dụng Random Forest và MLP Classifier cho dự đoán ung thư phổi.
 - Decision Tree có thể là lựa chọn tốt trong các tình huống cần giải thích rõ ràng.
