@@ -22,7 +22,7 @@ Mục tiêu của dự án:
 
 	▪ Hỗ trợ và cải thiện điều trị: Phân tích dữ liệu để xác định các yếu tố ảnh hưởng  và sử dụng mô hình dự đoán để phát hiện sớm mức độ những bệnh nhân để hỗ trợ việc sàng lọc và hỗ trợ điều trị hiệu quả hơn.
 ## :memo:   Initial Questions
-<img width="500" alt="overall_distribution" src=https://github.com/user-attachments/assets/a8d3c536-86b6-4064-b4bc-679d53a6e958>
+<img width="700" alt="overall_distribution" src=https://github.com/user-attachments/assets/a8d3c536-86b6-4064-b4bc-679d53a6e958>
 
 
 ## :open_file_folder:   Data Dictionary
@@ -48,43 +48,7 @@ Mục tiêu của dự án:
 | Weight Loss                    | int        | Giảm cân không mong muốn              |
 | Shortness of Breath            | int        | Các đợt khó thở                       |
 | Wheezing                       | int        | Sự hiện diện của khò khè             |
-| Swallowing Difficulty          | int        | Khó khăn trong việc nuốt             |
-| Clubbing of Finger Nails       | int        | Sự hiện diện của móng tay cong       |
-| Frequent Cold                  | int        | Tần suất cảm lạnh          |
-| Dry Cough                      | int        | Sự hiện diện của ho khan             |
-| Snoring                        | int        | Tình trạng ngáy ngủ                  |
-| Level                          | string           | Cấp độ chẩn đoán hoặc phân loại |
-
-
-## :compass:    Outline
-#### 1️⃣ Khám phá dữ liệu
-- Hiểu rõ các thông tin từ các cột của dữ liệu:  Kiểm tra kiểu dữ liệu (`info()`, `dtypes`), Kích thước dữ liệu `shape`, Các biến `columns`, Lần xuất hiện `value_counts`.
-- Kiểm tra và xử lý giá trị dữ liệu: Giá trị bị thiếu `isnull()`, Giá trị bị lặp `duplicated()`
-- Phân phối và thống kê dữ liệu: `describe()`
-#### 2️⃣  Thống kê và mô tả
-##### Phân bố dữ liệu 
-![image](https://github.com/user-attachments/assets/bfd014a1-f526-4b9e-ba99-1e96883305e0)
-- Phân bố mức độ nghiêm trọng của bệnh nhân được phân chia thành 3 mức: Thấp (Low), Trung bình (Medium) và Cao (High).
-- Tỷ lệ phân bố ở mỗi mức độ khá cân bằng: Thấp (30.30%), Trung bình (33.20%), Cao (36.50%).
-- Điều này cho thấy dữ liệu thu thập được có sự phân bố đều ở các mức độ nghiêm trọng khác nhau của bệnh nhân, không bị lệch về một mức độ nào cả.
-- Nói cách khác, việc thu thập dữ liệu đã được thực hiện một cách cân bằng đối với các mức độ nghiêm trọng khác nhau của bệnh nhân, đảm bảo tính đại diện của tập dữ liệu.
-##### Phân chia các nhóm dữ liệu 
-Dựa vào đặc điểm của những cột dữ liệu mà phân chia các cột dữ liệu vào 4 nhóm dưới: 
-| **Nhân khẩu học**        | **Môi trường và lối sống** | **Tác nhân bên trong** | **Triệu chứng hô hấp**    |
-|---------------------------|-----------------------------|-------------------------|----------------------------|
-| Tuổi                      | Ô nhiễm không khí          | Nguy cơ di truyền       | Đau ngực                   |
-| Giới tính                 | Sử dụng rượu              | Bệnh phổi mãn tính     | Ho ra máu                  |
-|                           | Nguy cơ nghề nghiệp        | Béo phì                 | Mệt mỏi                    |
-|                           | Chế độ ăn cân bằng         |                         | Giảm cân                   |
-|                           | Hút thuốc                  |                         | Khó thở                    |
-|                           | Hút thuốc thụ động         |                         | Thở khò khè                |
-|                           |                             |                         | Khó nuốt                   |
-|                           |                             |                         | Ngón tay dùi trống         |
-
-![image](https://github.com/user-attachments/assets/21916604-7609-425d-9fbd-d14e7f27be3d)
-![image](https://github.com/user-attachments/assets/5e929fdf-d7f4-4ac7-86af-a546176d3489)
-![image](https://github.com/user-attachments/assets/f072a821-611d-4b9b-b79e-ed4bba87df6e)
-![image](https://github.com/user-attachments/assets/b95b7a49-9862-44b9-9bde-19aba45a7dce)
+| Swallowing Difficulty          | int      500" alt="overall_distribution" src=https://github.com/user-attachments/assets/b95b7a49-9862-44b9-9bde-19aba45a7dce>
 
 #### :three: Phân tích
 ![image](https://github.com/user-attachments/assets/101bbab2-dbd1-45b3-b86e-f68bab05fe52)
