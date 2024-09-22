@@ -22,7 +22,7 @@ Mục tiêu của dự án:
 
 	▪ Hỗ trợ và cải thiện điều trị: Phân tích dữ liệu để xác định các yếu tố ảnh hưởng  và sử dụng mô hình dự đoán để phát hiện sớm mức độ những bệnh nhân để hỗ trợ việc sàng lọc và hỗ trợ điều trị hiệu quả hơn.
 ## :memo:   Initial Questions
-![image](https://github.com/user-attachments/assets/a8d3c536-86b6-4064-b4bc-679d53a6e958)
+<img width="500" alt="overall_distribution" src=https://github.com/user-attachments/assets/a8d3c536-86b6-4064-b4bc-679d53a6e958>
 
 
 ## :open_file_folder:   Data Dictionary
