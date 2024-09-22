@@ -103,13 +103,13 @@ Hầu hết những bệnh nhân thuộc mức độ cao những yếu tô trên
 
 
 ## :high_brightness: Summarize & Recommendations
-**Tổng kết** 
+### Tổng kết
 - Random Forest và MLP Classifier là hai mô hình nổi bật nhất với độ chính xác hoàn hảo, được khuyến nghị sử dụng cho việc phân loại dữ liệu này.
 - Logistic Regression có hiệu suất thấp hơn đáng kể và không được khuyến nghị cho dữ liệu này, trừ khi cần một mô hình đơn giản và dễ giải thích.
 - Decision Tree có hiệu suất cao và có thể được sử dụng khi cần giải thích dễ dàng về các quyết định của mô hình.
 - KNN cũng là một mô hình mạnh, nhưng có thể không hiệu quả khi áp dụng trên các tập dữ liệu lớn hoặc khi tính toán khoảng cách giữa các điểm dữ liệu trở nên tốn kém.
   
-**Đề xuất**
+### Đề xuất
 
 **Đời sống:**
 - Bệnh viện cần không ngừng tuyên truyền những tác nhân ảnh hưởng tới phổi như thuốc lá, rượu bia, bụi bẩn, ...
