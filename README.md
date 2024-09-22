@@ -85,6 +85,8 @@ Dựa vào đặc điểm của những cột dữ liệu mà phân chia các c�
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/5e929fdf-d7f4-4ac7-86af-a546176d3489>
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/f072a821-611d-4b9b-b79e-ed4bba87df6e>
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/b95b7a49-9862-44b9-9bde-19aba45a7dce>
+
+
 #### :three: Phân tích
 ![image](https://github.com/user-attachments/assets/5a8ea850-4d9f-49a5-a51a-b9c5504622f2)
 
