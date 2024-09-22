@@ -30,16 +30,34 @@ Mục tiêu của dự án:
 
 
 ## :open_file_folder:   Data Dictionary
-| **Variable** | **Value**                    | **Meaning**                                                     |
-|:-------------|:-----------------------------|:----------------------------------------------------------------|
-| Link         | String                       | The url of the job posting                                      |
-| Company      | String                       | The company name of the job posting                             |
-| Mode         | On-Site; Remote; Hybrid      | The working environment of the job posting                      |
-| Type         | Full-time; Contract          | The contract type of the job posting                            |
-| Level        | Entry; Associate; Mid-Senior | The job level of the job posting                                |
-| Requirements | String                       | The requirements in the description section of the job posting  |
-| Edu Level    | Int                          | Percentage of education level of candidates of the job position |
-| Skills       | String                       | The top 10 skills from candidates of job posting                |
+
+| **Biến**                       | **Loại giá trị** | **Ý nghĩa**                                                 |
+|--------------------------------|------------------|------------------------------------------------------------|
+| Patient Id                     | string            | Mã định danh duy nhất cho mỗi bệnh nhân                    |
+| Age                            | int        | Tuổi của bệnh nhân tính bằng năm                           |
+| Gender                         | int        | Giới tính của bệnh nhân         |
+| Air Pollution                  | int        | Mức độ tiếp xúc với ô nhiễm không khí |
+| Alcohol use                    | int        | Tần suất tiêu thụ rượu                |
+| Dust Allergy                   | int        | Sự hiện diện của dị ứng bụi            |
+| OccuPational Hazards           | int        | Tiếp xúc với nguy cơ nghề nghiệp      |
+| Genetic Risk                   | int        | Xu hướng di truyền đến bệnh phổi      |
+| chronic Lung Disease           | int        | Tiền sử bệnh phổi mãn tính            |
+| Balanced Diet                  | int        | Chất lượng chế độ ăn            |
+| Obesity                        | int        | Sự hiện diện của béo phì              |
+| Smoking                        | int        | Tình trạng hút thuốc  |
+| Passive Smoker                 | int        | Tiếp xúc với khói thuốc               |
+| Chest Pain                     | int        | Sự hiện diện của đau ngực            |
+| Coughing of Blood              | int        | Sự cố ho ra máu                       |
+| Fatigue                        | int        | Cảm giác mệt mỏi                      |
+| Weight Loss                    | int        | Giảm cân không mong muốn              |
+| Shortness of Breath            | int        | Các đợt khó thở                       |
+| Wheezing                       | int        | Sự hiện diện của khò khè             |
+| Swallowing Difficulty          | int        | Khó khăn trong việc nuốt             |
+| Clubbing of Finger Nails       | int        | Sự hiện diện của móng tay cong       |
+| Frequent Cold                  | int        | Tần suất cảm lạnh          |
+| Dry Cough                      | int        | Sự hiện diện của ho khan             |
+| Snoring                        | int        | Tình trạng ngáy ngủ                  |
+| Level                          | string           | Cấp độ chẩn đoán hoặc phân loại |
 
 
 ## :compass:    Outline/Planning
@@ -55,9 +73,6 @@ Mục tiêu của dự án:
 
 </details>
 
-[Acquisition](acquisition.ipynb)
-
-![selenium](https://user-images.githubusercontent.com/105242871/185518199-8de21772-c250-419b-a40f-524235f647c7.gif)
 
 #### 2️⃣  Data Preparation
 <details>
