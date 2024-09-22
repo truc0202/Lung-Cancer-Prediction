@@ -81,10 +81,10 @@ Dựa vào đặc điểm của những cột dữ liệu mà phân chia các c�
 |                           |                             |                         | Khó nuốt                   |
 |                           |                             |                         | Ngón tay dùi trống         |
 
-<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/21916604-7609-425d-9fbd-d14e7f27be3d>
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/3648388c-61a6-4869-94db-01497b163eef>
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/5e929fdf-d7f4-4ac7-86af-a546176d3489>
-<img width="600" alt="overall_distribution" src=(https://github.com/user-attachments/assets/f072a821-611d-4b9b-b79e-ed4bba87df6e>
-<i600" alt="overall_distribution" src=https://github.com/user-attachments/assets/b95b7a49-9862-44b9-9bde-19aba45a7dce>
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/f072a821-611d-4b9b-b79e-ed4bba87df6e>
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/b95b7a49-9862-44b9-9bde-19aba45a7dce>
 #### :three: Phân tích
 ![image](https://github.com/user-attachments/assets/101bbab2-dbd1-45b3-b86e-f68bab05fe52)
 
